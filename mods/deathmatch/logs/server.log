@@ -1,0 +1,71 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.5 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..o_linux_x64/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2018-04-29 18:37:45] File 'settings.xml' not present, creating new node.
+[2018-04-29 18:37:45] Starting resources...
+[2018-04-29 18:37:45] ERROR: Couldn't find resource admin. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource defaultstats. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource helpmanager. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource joinquit. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource mapcycler. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource mapmanager. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource parachute. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource performancebrowser. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource reload. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource resourcebrowser. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource resourcemanager. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource scoreboard. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource spawnmanager. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource voice. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource votemanager. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource webadmin. Check it exists.
+[2018-04-29 18:37:45] ERROR: Couldn't find resource play. Check it exists.
+[2018-04-29 18:37:45] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2018-04-29 18:37:45] WARNING: <owner_email_address> not set
+[2018-04-29 18:37:45] Server started and is ready to accept connections!
+[2018-04-29 18:37:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2018-04-29 18:37:45] Type 'help' for a list of commands.
+[2018-04-29 18:37:46] Querying MTA master server... success! (Auto detected IP:190.150.185.238)
+[2018-04-29 18:37:55] Server stopped!
+[2018-04-29 18:37:55] Stopping resources...
+[2018-04-29 18:37:55] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.5 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..o_linux_x64/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2018-04-29 18:42:03] Compacting accounts database 'internal.db' ...
+[2018-04-29 18:42:03] Resources: 196 loaded, 0 failed
+[2018-04-29 18:42:03] Compacting database 'registry.db' ...
+[2018-04-29 18:42:03] Starting resources...
+[2018-04-29 18:42:03] Admin access list successfully updated 
+[2018-04-29 18:42:03] INFO: Admin added 499 missing rights
+[2018-04-29 18:42:03] Server minclientversion is now 1.5.5-9.11915.0
+[2018-04-29 18:42:04] Gamemode 'play' started.
+[2018-04-29 18:42:04] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2018-04-29 18:42:04] WARNING: <owner_email_address> not set
+[2018-04-29 18:42:04] Server started and is ready to accept connections!
+[2018-04-29 18:42:04] To stop the server, type 'shutdown' or press Ctrl-C
+[2018-04-29 18:42:04] Type 'help' for a list of commands.
+[2018-04-29 18:42:04] Querying MTA master server... success! (Auto detected IP:190.150.185.238)
+[2018-04-29 18:42:09] Server stopped!
+[2018-04-29 18:42:09] Stopping resources......................
+[2018-04-29 18:42:09] Closing SQLite3 database
